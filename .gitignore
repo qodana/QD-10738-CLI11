@@ -20,3 +20,8 @@ a.out*
 
 /subprojects/Catch2-*
 /subprojects/packagecache
+
+.env
+qodana-results
+qodana.log
+.idea
